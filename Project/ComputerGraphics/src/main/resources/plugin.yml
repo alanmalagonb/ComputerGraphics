@@ -1,0 +1,8 @@
+name: ComputerGraphics
+version: '1'
+main: com.ipn.computergraphics.CGPlugin
+api-version: 1.19
+
+commands:
+  cg:
+    description: Main Command

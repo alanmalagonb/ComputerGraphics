@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ComputerGraphics:jar">
+    <output-path>$PROJECT_DIR$/../Paper/plugins</output-path>
+    <root id="archive" name="ComputerGraphics_jar.jar">
+      <element id="module-output" name="ComputerGraphics" />
+    </root>
+  </artifact>
+</component>
